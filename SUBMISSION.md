@@ -18,4 +18,3 @@ Trước khi nộp:
 
 Sửa sau buffer: trước khi export lại, chép hai zip và manifest cũ vào thư mục `r1/` trên máy (manifest cũ đổi tên thành `<tên>-manifest-r1.json`). Sau đó nộp hai file zip **cùng tên** và manifest mới với `--revision 2`. Ghi vào mục 4 của báo cáo đã sửa những gì.
 
-Link Drive : https://drive.google.com/drive/folders/13U8WPx_Oo23sJhIK46rdIbg-EzLmhSZZ?usp=sharing
